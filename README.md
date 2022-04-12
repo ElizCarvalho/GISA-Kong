@@ -1,6 +1,8 @@
 <br />
 <div align="center">
-  <img src="https://github.com/ElizCarvalho/GISA-Auth/blob/3070ea9d1f1127d48abed7d0d9b9c6b13cf07ef0/images/logo-gisa.png" alt="Logo" width="351" height="120">
+  
+  ![C2F553F0-3194-47E5-BF5C-88A70DF98619_4_5005_c](https://user-images.githubusercontent.com/19569999/162860920-04c561a5-5dd2-4b99-9400-bf5d7b083692.jpeg)
+  
   <h3 align="center">GISA Kong</h3>
 </div>
 
